@@ -64,6 +64,7 @@ Funciones y operaciones	Uso de funciones estadísticas y personalizadas	20%
 Integración y análisis final	Coherencia, conclusiones y calidad del diagnóstico	25%
 
 Documentación y presentación	Comentarios, celdas Markdown y claridad visual	15%
+
 🧠 Resultado esperado
 
 El grupo entregará un análisis integral de calidad hídrica utilizando pandas, demostrando habilidades en:
