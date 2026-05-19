@@ -53,51 +53,16 @@ Oxígeno disuelto
 Temperatura
 Turbidez
 
-4️⃣ Presentación
-
-Cada notebook debe incluir:
-
-Explicaciones en Markdown
-Comentarios dentro del código
-Resultados organizados y claros
-Tablas y análisis interpretativos
-🧩 Recomendaciones
-
-✅ Mantener nombres de columnas uniformes.
-
-✅ Aplicar funciones de pandas vistas en clase:
-
-.head()
-.describe()
-.mean()
-.groupby()
-.apply()
-.value_counts()
-
-✅ Documentar cada procedimiento realizado.
-
-✅ Verificar los resultados entre todos los integrantes antes de la entrega.
-
-📂 Estructura del proyecto
-nicoll_bernal_pandas_agua/
-│
-├── data/
-│   └── resultados_calidad_hidrica.csv
-│
-├── notebooks/
-│   ├── 0_ejemplo_clase_pandas.ipynb
-│   ├── reto1_exploracion_datos.ipynb
-│   ├── reto2_filtros_condiciones.ipynb
-│   ├── reto3_estadisticas_operaciones.ipynb
-│   └── reto4_diagnostico_integral.ipynb
-│
-└── README.md
 📊 Evaluación
 Criterio	Descripción	Ponderación
 Lectura y exploración de datos	Uso correcto de pandas para cargar y revisar información	20%
+
 Filtros y condiciones	Aplicación de expresiones lógicas y selección de datos	20%
+
 Funciones y operaciones	Uso de funciones estadísticas y personalizadas	20%
+
 Integración y análisis final	Coherencia, conclusiones y calidad del diagnóstico	25%
+
 Documentación y presentación	Comentarios, celdas Markdown y claridad visual	15%
 🧠 Resultado esperado
 
