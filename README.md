@@ -13,24 +13,27 @@ Analizar y procesar información ambiental mediante la biblioteca pandas, aplica
 data/resultados_calidad_hidrica.csv
 🧩 Datos de referencia
 Sitio	pH	Oxígeno (mg/L)	Temperatura (°C)	Turbidez (NTU)
+
 Río Frío (Zipaquirá)	7.1	7.5	18.9	12
+
 Quebrada La Moya (Funza)	6.4	5.8	22.1	28
+
 Río Bogotá (Chía)	5.8	4.2	27.4	45
+
 Río Negro (Útica)	8.0	6.9	24.0	19
+
 Quebrada Amarilla (Villeta)	7.7	7.2	23.8	15
+
 Río Dulce (Guaduas)	8.5	5.1	29.5	33
+
 Río Sumapaz (Fusagasugá)	6.9	6.5	21.7	20
+
 Quebrada Santa Rita (Facatativá)	6.1	4.7	26.3	38
+
 Río Neusa (Cogua)	7.3	8.0	17.6	10
+
 Río Apulo (Apulo)	8.2	5.9	30.2	41
-👩‍💻 Roles por grupo (4 estudiantes)
-Notebook	Descripción	Responsable
-0_ejemplo_clase_pandas.ipynb	Ejemplo general de lectura y manipulación de datos.	Todos
-reto1_exploracion_datos.ipynb	Cargar, explorar y describir los datos ambientales.	Estudiante 1
-reto2_filtros_condiciones.ipynb	Aplicar filtros y condiciones lógicas sobre pH, temperatura y oxígeno.	Estudiante 2
-reto3_estadisticas_operaciones.ipynb	Calcular estadísticas y crear nuevas columnas usando operaciones matemáticas.	Estudiante 3
-reto4_diagnostico_integral.ipynb	Integrar resultados y generar un diagnóstico ambiental final.	Estudiante 4
-⚙️ Pasos para completar la tarea
+
 1️⃣ Desarrollo individual
 
 Cada integrante debe desarrollar el notebook asignado.
@@ -49,6 +52,7 @@ pH
 Oxígeno disuelto
 Temperatura
 Turbidez
+
 4️⃣ Presentación
 
 Cada notebook debe incluir:
