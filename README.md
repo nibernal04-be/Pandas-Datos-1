@@ -4,9 +4,8 @@ Tarea 3 – Manipulación de Datos con Pandas
 
 📁 Repositorio GitHub
 
-Nombre del repositorio:
-
 nicoll_bernal_pandas_agua
+
 🎯 Objetivo general
 
 Analizar y procesar información ambiental mediante la biblioteca pandas, aplicando lectura, filtrado, agrupamiento y generación de resúmenes estadísticos a partir del dataset:
